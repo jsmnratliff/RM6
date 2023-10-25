@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Real Estate Listings</h1>
+      <h1 className='bubble-text'>Real Estate Listings</h1>
       <Home houses={houses} />
     </div>
   );

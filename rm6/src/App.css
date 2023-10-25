@@ -4,7 +4,16 @@
   align-items: center; 
   justify-content: center;
   min-height: 100vh; 
-  background-color: #f0f0f0;
+  background-color: #916697;
+}
+
+.bubble-text {
+  background-color: #7247b8; /* Background color */
+  color: rgba(255, 255, 255, 0.993); /* Text color */
+  padding: 10px 15px; /* Adjust padding as needed */
+  border-radius: 20px; /* Rounded corners */
+  display: inline-block; /* Display as inline block */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .App-logo {
